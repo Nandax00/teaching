@@ -1,0 +1,9 @@
+﻿<Application x:Class="SampleWPFApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SampleWPFApp">
+    <!-- StartupUri: a generált kódban ez hozza létre indításkor az ablakot. Érdemes kitörölni, mert egy olyan nézetet hoz létre, aminek nincs kontextusa. -->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
