@@ -1,5 +1,11 @@
 # teaching
-Segédanyagok az Eseményvezérelt alkalmazások fejlesztése 2. és a Webes alkalmazások fejlesztése tárgyakhoz.
+Információk és segédanyagok az Eseményvezérelt alkalmazások fejlesztése 2. és a Webes alkalmazások fejlesztése tárgyakhoz.
 
-EVA2
-Egy kidolgozott Windows Forms és egy kidolgozott Windows Presentation Foundation típusú zárthelyi.
+## Elérhetőség
+**anfekete73@gmail.com** vagy **hutche@inf.elte.hu**
+
+## EVA2 & WAF
+A kurzusokról információk (követelmények, határidők) a Wikiben találhatóak.
+
+## Egyéb
+PDF-ek: kivonat a Microsoft hivatalos C# kódkonvenciójából és egy rövid lista a legfontosabb Visual Studio billentyűparancsokról.
